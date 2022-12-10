@@ -61,7 +61,7 @@ const handleReset = (e) => {
         <input
             type="text"
             name="email"
-            placeholder="Email"
+            placeholder="E-mail"
             onChange={handleChange}
             value={form.email}
         />

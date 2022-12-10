@@ -97,7 +97,6 @@ const deleteData = (id) => {
 
     return (
     <div>
-        <h2>CRUD API</h2>
         <article className="grid-1-2-3">
         <CrudForm
             createData={createData}
